@@ -6,4 +6,5 @@ Contributors:
 - [Aldrin Mañus](https://github.com/Arudrin)
 - [Angelo Rey Lumanta](https://github.com/adlumanta)
 <br>
-[Click here](https://github.com/adlumanta)
+
+Link: https://e-services-ph-franklin.firebaseapp.com/
