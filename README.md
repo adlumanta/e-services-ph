@@ -6,4 +6,4 @@ Contributors:
 - [Aldrin Mañus](https://github.com/Arudrin)
 - [Angelo Rey Lumanta](https://github.com/adlumanta)
 <br>
-To visit the website, click [Angelo Rey Lumanta](https://github.com/adlumanta)
+[Click here](https://github.com/adlumanta)
