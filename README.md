@@ -7,4 +7,4 @@ Contributors:
 - [Angelo Rey Lumanta](https://github.com/adlumanta)
 <br>
 
-Link: https://e-services-ph-franklin.firebaseapp.com/
+Link: https://e-services-ph-franklin.web.app/
