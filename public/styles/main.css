@@ -1,0 +1,192 @@
+/* navbar */
+
+.navbar-default {
+    background-color: #17223b;
+    border-color: #17223b;
+    padding-left: 15px;
+    padding-right: 20%;
+}
+
+
+/* Title */
+
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #f0eec8;
+}
+
+
+/* Link */
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: #f0f69f;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #555;
+    background-color: #E7E7E7;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #555;
+    background-color: #D5D5D5;
+}
+
+
+/* Caret */
+
+.navbar-default .navbar-nav>.dropdown>a .caret {
+    border-top-color: #777;
+    border-bottom-color: #777;
+}
+
+.navbar-default .navbar-nav>.dropdown>a:hover .caret,
+.navbar-default .navbar-nav>.dropdown>a:focus .caret {
+    border-top-color: #333;
+    border-bottom-color: #333;
+}
+
+.navbar-default .navbar-nav>.open>a .caret,
+.navbar-default .navbar-nav>.open>a:hover .caret,
+.navbar-default .navbar-nav>.open>a:focus .caret {
+    border-top-color: #555;
+    border-bottom-color: #555;
+}
+
+
+/* Mobile version */
+
+.navbar-default .navbar-toggle {
+    border-color: #DDD;
+}
+
+.navbar-default .navbar-toggler {
+    margin: auto;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: white;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    text-align: center;
+    height: 5px;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #DDD;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #CCC;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #777;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+        color: #333;
+    }
+}
+
+
+/* End of navbar */
+
+
+/* jumbotron */
+
+.jumbotron {
+    background-color: #2470a0;
+}
+
+.jumbotron-h1 {
+    color: white;
+}
+
+.jumbotron-h4 {
+    color: white;
+}
+
+.jumbotron-p {
+    color: white;
+}
+
+.quicklinks {
+    color: #2A5DB0;
+}
+
+.quicklink {
+    text-decoration: underline;
+}
+
+.divider {
+    border: solid;
+    border-color: black;
+    border-width: 100%;
+
+}
+
+.wrapper {
+    min-height: 100%;
+    /* Equal to height of footer */
+    /* But also accounting for potential margin-bottom of last child */
+    margin-bottom: -50px;
+}
+
+.footer {
+    background: black;
+    text-align: center;
+}
+
+.footer,
+.push {
+    height: 50px;
+}
+
+.footertext {
+    color: white;
+}
+
+.departmentno {
+    font-weight: bolder;
+    color: #2470a0;
+    font-size: 90px;
+    text-align: right;
+}
+
+.departments {
+    font-weight: bolder;
+    text-align: right;
+    color: #142d4c;
+}
+
+.filler {
+    height: 120px;
+    background-color: #333;
+}
+
+.jumbotron-secondary {
+    background-color: #2470a0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fillerlang {
+    padding: 20px;
+}
